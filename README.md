@@ -5,5 +5,5 @@ Egern remote rule set: domains reachable DIRECTLY from mainland China (auto-main
 Raw URL for Egern `rule_set`:
 
 ```
-https://raw.githubusercontent.com/Yxd0530/egern-direct/refs/heads/main/direct.list
+https://raw.githubusercontent.com/Yin886/egern-direct/refs/heads/main/direct.list
 ```
